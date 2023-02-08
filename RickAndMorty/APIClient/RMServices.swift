@@ -14,7 +14,7 @@ final class RMService{
     private init() {}
         
     public func executeRequest(_ request: RMRequest, completion: @escaping () -> Void){
-        
+            
     }
     
     
